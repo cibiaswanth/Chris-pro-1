@@ -1,4 +1,4 @@
-# Chris-pro-1
+# GlobalDeathAnalysis:
 
 Global Mortality Analysis Dashboard:
 This project entails a data visualization and analysis dashboard focusing on global mortality rates, specifically examining causes of death across different age groups and countries.
